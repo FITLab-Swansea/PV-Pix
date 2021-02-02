@@ -5,6 +5,7 @@
 It includes block diagram and servo modification process.  
 
 Servo motor modification steps: 
+
 1)Modify SG90 servo motor for continuous rotation. 
 
 2) Remove gear that drives potentiometer.
