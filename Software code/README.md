@@ -1,4 +1,4 @@
 # PV-Pix 
 
-*software code
+*software code: To create working prototypes use code scripts.
 
