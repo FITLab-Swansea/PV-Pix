@@ -1,6 +1,6 @@
 # PV-Pix 
 
-*software code: 
+*Software code: 
 To create working prototypes use code scripts.
 
 To make a working demo of TiltTile: 
