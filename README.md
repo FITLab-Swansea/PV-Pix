@@ -4,7 +4,7 @@ PV-Pix is a slum community co-design of self-powered deformable smart messaging 
 
 See the [toolkit website](https://deliot.me/toolkit.html) and [research project website](https://deliot.me) for more details and related work.
 
-## Getting Start
+## Getting Started
 By using the following step-by-step process you can build your own PV-Pix or you can reproduce our work. 
 
 *Dye Sensitised Solar Cell (DSSC) fabrication
@@ -28,5 +28,6 @@ The PV-Pix fabrication guide, electronics, prototype designs, MSP430FR5969 Ultra
 ## Acknowledgments
 
 * FitLab
+* Specific
 * Swansea University
-* ...
+* EPSRC
